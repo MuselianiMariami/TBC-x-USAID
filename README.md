@@ -1,8 +1,8 @@
-TBC x USAID...
+TBC x USAID tech task
 <br/>
 LIVE - https://muselianimariami.github.io/TBC-x-USAID/
 
-## Project Structure
+## Project Structure 
 
 - **`css/`**: Contains all the style components for the project:  
   - **`burger.css`**: styles the hamburger menu, side navigation and animations;
