@@ -398,6 +398,10 @@ main h3 {
 }
  
   /********************************** FAQs ****************************/
+details summary::-webkit-details-marker {
+  display:none;
+}
+
 .faq-section{
   background-color:var(--main-faq);
   padding: 0 var(--padding);
