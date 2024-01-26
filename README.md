@@ -19,7 +19,7 @@ LIVE - https://muselianimariami.github.io/TBC-x-USAID/
 
 ## Tech stack
 
-- **HTML:**
+- **HTML**
 - **CSS:**  <br/>
     -**CSS Grid**, **Flexbox,** : are used for creating flexible and responsive layouts. They allow for easy alignment and positioning of elements in a row, column, or grid structure. <br/>
     -**CSS Transitions and Animations** : are used for smooth transitions and animations. This adds a polished and interactive feel to the website. <br/>
