@@ -27,7 +27,7 @@ LIVE - https://muselianimariami.github.io/TBC-x-USAID/
     -**Responsive Font Sizes** : The clamp() function is used for setting font sizes based on the viewport width, ensuring responsive typography. <br/>
     -**CSS Box Model** : is used to ensure that padding and borders are included in the element's total width and height. <br/>
 - **Vanilla JavaScript:**  <br/>
-    -**Arrow Functions** <br/> **Template Literals** <br/> **Mouse Events** <br/> **Conditional Statements** <br/> **Variable Declarations** <br/> **Event Listeners** <br/> **DOM** <br/>
+    **Arrow Functions** <br/> **Template Literals** <br/> **Mouse Events** <br/> **Conditional Statements** <br/> **Variable Declarations** <br/> **Event Listeners** <br/> **DOM** <br/>
 - (no additional libraries used)
 <br/>
 
