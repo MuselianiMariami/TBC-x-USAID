@@ -21,11 +21,11 @@ LIVE - https://muselianimariami.github.io/TBC-x-USAID/
 
 - **HTML:**
 - **CSS:**
-    -**CSS Grid**, **Flexbox,** : are used for creating flexible and responsive layouts. They allow for easy alignment and positioning of elements in a row, column, or grid structure.
-    -**CSS Transitions and Animations** : are used for smooth transitions and animations. This adds a polished and interactive feel to the website.
-    -**Media Queries** : are used to apply styles based on the screen size or device characteristics. This enables responsive design, ensuring the layout looks good on various devices.
-    -**Responsive Font Sizes** : The clamp() function is used for setting font sizes based on the viewport width, ensuring responsive typography.
-    -**CSS Box Model** : is used to ensure that padding and borders are included in the element's total width and height.
+    -**CSS Grid**, **Flexbox,** : are used for creating flexible and responsive layouts. They allow for easy alignment and positioning of elements in a row, column, or grid structure. <br/>
+    -**CSS Transitions and Animations** : are used for smooth transitions and animations. This adds a polished and interactive feel to the website. <br/>
+    -**Media Queries** : are used to apply styles based on the screen size or device characteristics. This enables responsive design, ensuring the layout looks good on various devices. <br/>
+    -**Responsive Font Sizes** : The clamp() function is used for setting font sizes based on the viewport width, ensuring responsive typography. <br/>
+    -**CSS Box Model** : is used to ensure that padding and borders are included in the element's total width and height. <br/>
 - **Vanilla JavaScript:**
     -**Arrow Functions** **Template Literals** **Mouse Events** **Conditional Statements** **Variable Declarations** **Event Listeners** **DOM**
 - (no additional libraries used)
