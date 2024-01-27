@@ -32,11 +32,11 @@ LIVE - https://muselianimariami.github.io/TBC-x-USAID/
 <br/>
 
 ## Key features
-- Responsive design (PC, tablet, mobile);
-- Looks identically in all browsers;
-- Working slider in "Partners" section;
-- Working drop down answers in "FAQ" section;
-- Working hamburger/side navigation menu;
+	•	Responsive design (PC, tablet, mobile).
+	•	Consistent appearance across all browsers.
+	•	Functional slider in the “Partners” section.
+	•	Interactive drop-down answers in the “FAQ” section.
+	•	Operational hamburger/side navigation menu.
 
 ## How To Launch The Website 
 	1.	Clone the repository:
@@ -53,3 +53,17 @@ cd <>
 Open index.html file in a web browser directly or host it using a simple server.
 	4.	Launch the website:
 The website should now be accessible in your browser.
+
+##Second Way
+
+	1.	Download ZIP:
+	•	Visit the GitHub repository page.
+	•	Click on the “Code” button, then select “Download ZIP.”
+	•	Save and extract the ZIP file to your preferred location.
+	2.	Open in Code Editor:
+	•	Open your preferred code editor (e.g., Visual Studio Code, Sublime Text).
+	•	Use the “Open Folder” or similar option to open the extracted project folder.
+	3.	Launch the website:
+	•	Locate the main HTML file (e.g., index.html) in the project folder.
+	•	Right-click on the HTML file and select “Open with Live Server” or open it directly in a web browser.
+
