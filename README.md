@@ -38,4 +38,18 @@ LIVE - https://muselianimariami.github.io/TBC-x-USAID/
 - Working drop down answers in "FAQ" section;
 - Working hamburger/side navigation menu;
 
+## How To Launch The Website 
+	1.	Clone the repository:
 
+git clone <repository_url>
+
+
+	2.	Navigate to the project folder:
+
+cd <>
+
+
+	3.	Open the HTML file:
+Open index.html file in a web browser directly or host it using a simple server.
+	4.	Launch the website:
+The website should now be accessible in your browser.
