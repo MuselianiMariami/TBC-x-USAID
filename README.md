@@ -46,7 +46,7 @@ git clone <repository_url>
 
 	2.	Navigate to the project folder:
 
-cd <>
+cd <TBC-x-USAID>
 
 
 	3.	Open the HTML file:
@@ -54,7 +54,7 @@ Open index.html file in a web browser directly or host it using a simple server.
 	4.	Launch the website:
 The website should now be accessible in your browser.
 
-##Second Way
+## Second Way
 
 	1.	Download ZIP:
 	•	Visit the GitHub repository page.
