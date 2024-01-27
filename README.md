@@ -1,6 +1,6 @@
 TBC x USAID tech task
 <br/>
-LIVE - https://muselianimariami.github.io/TBC-x-USAID/
+
 
 ## Project Structure 
 
@@ -21,19 +21,19 @@ LIVE - https://muselianimariami.github.io/TBC-x-USAID/
 
 - **HTML**
 - **CSS:**  <br/>
-    -**CSS Grid**, **Flexbox,** : are used for creating flexible and responsive layouts. They allow for easy alignment and positioning of elements in a row, column, or grid structure. <br/>
+    -**CSS Grid** **Flexbox,** : are used for creating flexible and responsive layouts. They allow for easy alignment and positioning of elements in a row, column, or grid structure. <br/>
     -**CSS Transitions and Animations** : are used for smooth transitions and animations. This adds a polished and interactive feel to the website. <br/>
     -**Media Queries** : are used to apply styles based on the screen size or device characteristics. This enables responsive design, ensuring the layout looks good on various devices. <br/>
     -**Responsive Font Sizes** : The clamp() function is used for setting font sizes based on the viewport width, ensuring responsive typography. <br/>
     -**CSS Box Model** : is used to ensure that padding and borders are included in the element's total width and height. <br/>
 - **Vanilla JavaScript:**  <br/>
     Arrow Functions <br/> Template Literals <br/> Mouse Events <br/> Conditional Statements <br/> Variable Declarations <br/> Event Listeners <br/> DOM <br/>
-      -Functions for: <br/>
-      • sticky header;
-      • overlay;
-      • side navigation; 
-      • slider;
-      • FAQs drop-down section;
+      **Functions for**: <br/>
+      • sticky header; <br/>
+      • overlay;<br/>
+      • side navigation; <br/>
+      • slider;<br/>
+      • FAQs drop-down section;<br/>
 - (no additional libraries used)
 <br/>
 
@@ -72,4 +72,7 @@ The website should now be accessible in your browser.
 	3.	Launch the website:
 	•	Locate the index.html file in the project folder.
 	•	Right-click on the HTML file and select “Open with Live Server” or open it directly in a web browser.
+
+## You can also visit Live Link below ↓ <br/>
+
 
