@@ -1,6 +1,5 @@
 ![TBC x USAID ](https://static.wixstatic.com/media/dd97f4_481f1850e41b410597f04bba536a018b~mv2.png/v1/fill/w_560,h_104,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Asset%204_2x.png)
 ## TECH TASK FOR REACT COURSE
-<br/>
 
 ## Project Structure <br/> 
 
