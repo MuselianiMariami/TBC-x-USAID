@@ -27,7 +27,13 @@ LIVE - https://muselianimariami.github.io/TBC-x-USAID/
     -**Responsive Font Sizes** : The clamp() function is used for setting font sizes based on the viewport width, ensuring responsive typography. <br/>
     -**CSS Box Model** : is used to ensure that padding and borders are included in the element's total width and height. <br/>
 - **Vanilla JavaScript:**  <br/>
-    **Arrow Functions** <br/> **Template Literals** <br/> **Mouse Events** <br/> **Conditional Statements** <br/> **Variable Declarations** <br/> **Event Listeners** <br/> **DOM** <br/>
+    Arrow Functions <br/> Template Literals <br/> Mouse Events <br/> Conditional Statements <br/> Variable Declarations <br/> Event Listeners <br/> DOM <br/>
+      -Functions for: <br/>
+      • sticky header;
+      • overlay;
+      • side navigation; 
+      • slider;
+      • FAQs drop-down section;
 - (no additional libraries used)
 <br/>
 
@@ -64,6 +70,6 @@ The website should now be accessible in your browser.
 	•	Open your preferred code editor (e.g., Visual Studio Code, Sublime Text).
 	•	Use the “Open Folder” or similar option to open the extracted project folder.
 	3.	Launch the website:
-	•	Locate the main HTML file (e.g., index.html) in the project folder.
+	•	Locate the index.html file in the project folder.
 	•	Right-click on the HTML file and select “Open with Live Server” or open it directly in a web browser.
 
