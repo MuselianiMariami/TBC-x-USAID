@@ -46,12 +46,12 @@
 ## How To Launch The Website 
 	1.	Clone the repository:
 
-git clone <repository_url>
+git clone <https://github.com/MuselianiMariami/TBC-x-USAID.git>
 
 
 	2.	Navigate to the project folder:
 
-cd <TBC-x-USAID>
+cd TBC-x-USAID
 
 
 	3.	Open the HTML file:
@@ -73,5 +73,6 @@ The website should now be accessible in your browser.
 	•	Right-click on the HTML file and select “Open with Live Server” or open it directly in a web browser.
 
 ## You can also visit Live Link below ↓ <br/>
+https://muselianimariami.github.io/TBC-x-USAID/
 
 
