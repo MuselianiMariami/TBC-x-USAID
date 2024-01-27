@@ -1,8 +1,8 @@
-TBC x USAID tech task
+![TBC x USAID ](https://static.wixstatic.com/media/dd97f4_481f1850e41b410597f04bba536a018b~mv2.png/v1/fill/w_560,h_104,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Asset%204_2x.png)
+## TECH TASK FOR REACT COURSE
 <br/>
-
-
-## Project Structure 
+<br/>
+## Project Structure <br/> 
 
 - **`css/`**: Contains all the style components for the project:  
   - **`burger.css`**: styles the hamburger menu, side navigation and animations;
@@ -21,7 +21,7 @@ TBC x USAID tech task
 
 - **HTML**
 - **CSS:**  <br/>
-    -**CSS Grid** **Flexbox,** : are used for creating flexible and responsive layouts. They allow for easy alignment and positioning of elements in a row, column, or grid structure. <br/>
+    -**CSS Grid** and **Flexbox** : are used for creating flexible and responsive layouts. They allow for easy alignment and positioning of elements in a row, column, or grid structure. <br/>
     -**CSS Transitions and Animations** : are used for smooth transitions and animations. This adds a polished and interactive feel to the website. <br/>
     -**Media Queries** : are used to apply styles based on the screen size or device characteristics. This enables responsive design, ensuring the layout looks good on various devices. <br/>
     -**Responsive Font Sizes** : The clamp() function is used for setting font sizes based on the viewport width, ensuring responsive typography. <br/>
